@@ -353,8 +353,8 @@ public class BinaryTree {
         que -1 o mayor que 1 (los que requieren balanceo).
 
     public void printBalanceFactors()
-        Muestra el arbol en consola indicando en cada nodo su factor de
-        equilibrio.
+        Muestra el arbol en consola indicando en cada nodo su factor| publico el repositorio
+        equilibrio. primer commit
     */
 
     /*
